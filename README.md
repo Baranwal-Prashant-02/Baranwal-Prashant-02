@@ -173,7 +173,7 @@
 
 
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank">
+<a href="https://www.linkedin.com/in/prashant-kr-baranwal" target="_blank">
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
@@ -181,7 +181,7 @@
 
 
 
-<a href="https://www.hackerrank.com/YOUR-HACKERRANK-ID" target="_blank">
+<a href="https://www.hackerrank.com/profile/prashantbaranwa1" target="_blank">
 
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 
