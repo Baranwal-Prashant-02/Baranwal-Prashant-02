@@ -162,25 +162,41 @@
 
 ## 🌐 Connect With Me
 
-<h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" />
+
+<a href="mailto:baranwalprashant2@gmail.com" target="_blank">
+
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
 </a>
 
-<a href="https://www.hackerrank.com/YOUR-HACKERRANK-ID" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40" width="50" />
+
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
 </a>
 
-<a href="mailto:baranwalprashant2@gmail.com" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" width="50" />
+
+
+<a href="https://www.hackerrank.com/YOUR-HACKERRANK-ID" target="_blank">
+
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+
 </a>
 
-<a href="https://github.com/Baranwal-Prashant-02" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="50" />
+
+
+<a href="https://github.com/Baranwal-Prashant-02" target="_blank">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
 </a>
+
 </p>
+
 
 
 ---
