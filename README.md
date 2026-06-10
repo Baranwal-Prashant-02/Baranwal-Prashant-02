@@ -18,10 +18,10 @@
 
 🌱 Currently Learning:
 
+* Data Structures & Algorithms
 * Advanced Full Stack Development
 * Generative AI Applications
 * System Design
-* Data Structures & Algorithms
 
 💻 Interested In:
 
