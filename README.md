@@ -162,13 +162,26 @@
 
 ## 🌐 Connect With Me
 
-📧 Email: [baranwalprashant2@gmail.com](mailto:baranwalprashant2@gmail.com)
+<h3 align="left">Connect with me:</h3>
 
-💼 LinkedIn: Add Your LinkedIn URL Here
+<p align="left">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" />
+</a>
 
-💻 GitHub: https://github.com/Baranwal-Prashant-02
+<a href="https://www.hackerrank.com/YOUR-HACKERRANK-ID" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40" width="50" />
+</a>
 
-🏆 HackerRank: Add Your HackerRank URL Here
+<a href="mailto:baranwalprashant2@gmail.com" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" width="50" />
+</a>
+
+<a href="https://github.com/Baranwal-Prashant-02" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="50" />
+</a>
+</p>
+
 
 ---
 
