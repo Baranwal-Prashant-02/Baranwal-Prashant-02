@@ -115,12 +115,13 @@
 
 ### 💼 Placement Cell Web Application
 
-**Tech Stack:** Flask, Jinja2, SQLAlchemy, HTML, CSS
+**Tech Stack:** Python, Flask, SQLAlchemy, SQLite, HTML, CSS, Bootstrap, Jinja2
 
-* Developed a web-based platform to streamline campus recruitment.
-* Enabled recruiters to post jobs and students to apply online.
-* Implemented resume upload and application tracking.
-* Built an admin dashboard for placement management.
+* Built a web-based placement portal supporting job posting, student registration, and online job applications.
+* Integrated resume upload, form validation, and database management using Flask, SQLAlchemy, and SQLite.
+* Designed responsive user interfaces using HTML, CSS, Bootstrap, and Jinja2 templates.
+* Enabled recruiters to publish opportunities while allowing students to apply through a centralized platform.
+* Implemented database-driven workflows for managing job listings, applicant information, and uploaded resumes.
 
 ---
 
