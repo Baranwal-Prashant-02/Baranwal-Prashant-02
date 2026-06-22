@@ -26,7 +26,7 @@
 💻 Interested In:
 
 * Full Stack Development
-* Artificial Intelligence
+* Artificial Intelligence and Automation
 * Backend Development
 * Software Engineering
 
