@@ -87,11 +87,15 @@
 ### 📚 Smart Timetable & Classroom Allocation System
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Python
+**Libraries & Tools: Axios, React Select, Recharts, Bootstrap, Mongoose, REST APIs, Git, GitHub
 
-* Automated timetable scheduling and classroom allocation.
-* Implemented constraint-based scheduling logic.
-* Reduced manual scheduling conflicts.
-* Developed REST APIs for real-time data handling.
+* Developed a full-stack web application to automate timetable generation and classroom allocation for educational   institutions.
+* Built a Python-based constraint scheduling engine to generate conflict-free timetables using faculty               availability, subject workload, classroom resources, and batch constraints.
+* Designed MongoDB collections for Users, Faculties, Subjects, Classrooms, Batches, and Timetables, enabling         efficient data management.
+* Implemented role-based dashboards for Admin, Faculty, and Students with timetable management and visualization     features.
+* Developed RESTful APIs and integrated frontend-backend communication using Axios.
+* Utilized Recharts to visualize faculty workload, classroom utilization, overloaded faculty detection, and peak     scheduling slots.
+* Reduced manual scheduling effort and improved resource utilization through automated timetable generation.
 
 ---
 
@@ -101,7 +105,7 @@
 
 * Upload and analyze PDF resumes by extracting content, skills, and keywords using PDF.js.
 * Compare resume content against job descriptions to identify matched and missing skills.
-* Calculate ATS scores using a custom scoring model based on Skills Match (60%), Section Completeness (20%), and Keyword Relevance (20%).
+* Calculate ATS scores using a custom scoring model based on Skills Match (60%), Section Completeness (20%), and     Keyword Relevance (20%).
 * Generate detailed ATS reports with score breakdowns, improvement suggestions, and optimization tips.
 * Highlight matched skills and missing skills to help users improve resume-job compatibility.
 * Export ATS analysis reports as PDF documents for easy sharing and review.
