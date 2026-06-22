@@ -122,13 +122,14 @@
 
 🏆 NPTEL – Fundamentals of Digital Marketing (IIT Kharagpur)
 
+🏆 Wells Fargo Software Engineering Job Simulation (Forage)
+
 🏆 Artificial Intelligence Workshop – Techkriti'25 (IIT Kanpur)
 
-🏆 Python Complete Course & Flask Framework (Udemy)
+🏆 Python Complete Course, Flask Framework & HTML Essentials  (Udemy)
 
 🏆 Hands-On React.js From Beginner to Expert (Udemy)
 
-🏆 National Financial Literacy Quiz (NISM & SEBI)
 
 ---
 
