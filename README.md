@@ -101,15 +101,14 @@
 
 ### 📄 ATS Resume Checker Pro
 
-**Tech Stack:** React.js, JavaScript, Vite, Tailwind CSS, PDF.js, jsPDF, React Circular Progressbar, React Toastify, Lucide React
+**Tech Stack:** React.js, JavaScript, Vite, Tailwind CSS, PDF.js, jsPDF, React Circular Progressbar, Lucide React
 
-* Upload and analyze PDF resumes by extracting content, skills, and keywords using PDF.js.
-* Compare resume content against job descriptions to identify matched and missing skills.
-* Calculate ATS scores using a custom scoring model based on Skills Match (60%), Section Completeness (20%), and     Keyword Relevance (20%).
-* Generate detailed ATS reports with score breakdowns, improvement suggestions, and optimization tips.
-* Highlight matched skills and missing skills to help users improve resume-job compatibility.
-* Export ATS analysis reports as PDF documents for easy sharing and review.
-* Responsive and interactive UI built with React.js and Tailwind CSS, deployed on Vercel.
+* Developed a browser-based ATS Resume Checker that compares resumes with job descriptions and generates detailed ATS analysis reports.
+* Extracts resume content from PDF files, identifies skills and sections, and performs keyword relevance analysis.
+* Calculates ATS scores using a weighted model based on Skills Match (60%), Resume Structure (20%), and Keyword Relevance (20%).
+* Highlights matched skills, missing skills, missing sections, and provides actionable resume improvement suggestions.
+* Generates downloadable PDF reports containing ATS scores, skill-gap analysis, recommendations, and job match ratings.
+* Built a responsive and interactive UI using React.js and Tailwind CSS, with complete client-side processing for data privacy.
 
 ---
 
