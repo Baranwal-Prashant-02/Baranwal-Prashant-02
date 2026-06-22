@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4F9CF9&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Flask+%7C+Python+%7C+C%2B%2B;Building+AI+Powered+Applications;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4F9CF9&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Flask+%7C+Python+%7C+C%2B%2B;Building+AI+Powered+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,7 +21,7 @@
 * Data Structures & Algorithms
 * Advanced Full Stack Development
 * Generative AI Applications
-* System Design
+
 
 💻 Interested In:
 
@@ -30,7 +30,7 @@
 * Backend Development
 * Software Engineering
 
-📍 Deoria, Uttar Pradesh, India
+📍 Uttar Pradesh, India
 
 ---
 
@@ -95,6 +95,20 @@
 
 ---
 
+### 📄 ATS Resume Checker Pro
+
+**Tech Stack:** React.js, JavaScript, Vite, Tailwind CSS, PDF.js, jsPDF, React Circular Progressbar, React Toastify, Lucide React
+
+* Upload and analyze PDF resumes by extracting content, skills, and keywords using PDF.js.
+* Compare resume content against job descriptions to identify matched and missing skills.
+* Calculate ATS scores using a custom scoring model based on Skills Match (60%), Section Completeness (20%), and Keyword Relevance (20%).
+* Generate detailed ATS reports with score breakdowns, improvement suggestions, and optimization tips.
+* Highlight matched skills and missing skills to help users improve resume-job compatibility.
+* Export ATS analysis reports as PDF documents for easy sharing and review.
+* Responsive and interactive UI built with React.js and Tailwind CSS, deployed on Vercel.
+
+---
+
 ### 💼 Placement Cell Web Application
 
 **Tech Stack:** Flask, Jinja2, SQLAlchemy, HTML, CSS
@@ -103,16 +117,6 @@
 * Enabled recruiters to post jobs and students to apply online.
 * Implemented resume upload and application tracking.
 * Built an admin dashboard for placement management.
-
----
-
-### 🍔 Online Food Ordering System
-
-**Tech Stack:** C Language
-
-* Console-based restaurant ordering application.
-* Managed menu operations and order tracking.
-* Generated billing and order summaries.
 
 ---
 
@@ -126,10 +130,9 @@
 
 🏆 Artificial Intelligence Workshop – Techkriti'25 (IIT Kanpur)
 
-🏆 Python Complete Course, Flask Framework & HTML Essentials  (Udemy)
+🏆 Python Complete Course, Flask Framework & HTML Essentials (Udemy)
 
 🏆 Hands-On React.js From Beginner to Expert (Udemy)
-
 
 ---
 
@@ -137,73 +140,55 @@
 
 ⭐ Strong foundation in Data Structures & Algorithms
 
-⭐ Built multiple full-stack web applications
+⭐ Built multiple Full Stack applications using MERN Stack and Flask
 
-⭐ Active learner in AI and Generative AI technologies
-
-⭐ Participated in technical workshops and competitions
+⭐ Active learner in AI, Backend Development, and Fullstack Development
 
 ---
 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baranwal-Prashant-02&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Baranwal-Prashant-02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baranwal-Prashant-02&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baranwal-Prashant-02&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Baranwal-Prashant-02&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baranwal-Prashant-02&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Baranwal-Prashant-02&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-
 <p align="left">
 
 <a href="mailto:baranwalprashant2@gmail.com" target="_blank">
-
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
 </a>
-
-
 
 <a href="https://www.linkedin.com/in/prashant-kr-baranwal" target="_blank">
-
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-
 </a>
-
-
 
 <a href="https://www.hackerrank.com/profile/prashantbaranwa1" target="_blank">
-
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-
 </a>
 
-
-
 <a href="https://github.com/Baranwal-Prashant-02" target="_blank">
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
 </a>
 
 </p>
-
-
 
 ---
 
 ### 💡 Quote I Live By
 
-"Success is built one project, one commit, and one lesson at a time."
+> Success is built one project, one commit, and one lesson at a time.
 
 ⭐ Thanks for visiting my profile!
