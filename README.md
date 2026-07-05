@@ -100,6 +100,21 @@
 
 ---
 
+###💬 Driftline – Real-Time Chat Application
+
+**Tech Stack: React.js, Node.js, Express.js, Socket.io, SQLite
+**Libraries & Tools: Axios, Socket.io-client, better-sqlite3, UUID, REST APIs, Git, GitHub
+
+* Developed a full-stack real-time chat application enabling instant messaging with persistent chat history using React.js, Node.js, Express.js, Socket.io, and SQLite.
+* Implemented live messaging, online user presence, typing indicators, and delivered/read receipts using Socket.io event-based communication.
+* Designed a normalized SQLite database with UUID-based message storage for efficient history retrieval and reliable data persistence.
+* Built RESTful APIs for loading chat history and integrated them with WebSocket-based real-time communication using Axios.
+* Engineered automated message retention with scheduled background cleanup to remove expired records and optimize database performance.
+* Structured the application using a modular architecture with separate routes, controllers, models, socket handlers, and scheduled jobs for maintainability.
+* Improved user experience through automatic reconnection, connection status indicators, and graceful error handling across REST and WebSocket layers.
+
+---
+
 ### 📄 ATS Resume Checker Pro
 
 **Tech Stack:** React.js, JavaScript, Vite, Tailwind CSS, PDF.js, jsPDF, React Circular Progressbar, Lucide React
