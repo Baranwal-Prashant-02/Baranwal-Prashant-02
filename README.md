@@ -100,9 +100,9 @@
 
 ---
 
-###💬 Driftline – Real-Time Chat Application
+### 💬 Driftline – Real-Time Chat Application
 
-**Tech Stack: React.js, Node.js, Express.js, Socket.io, SQLite
+**Tech Stack:** React.js, Node.js, Express.js, Socket.io, SQLite
 **Libraries & Tools: Axios, Socket.io-client, better-sqlite3, UUID, REST APIs, Git, GitHub
 
 * Developed a full-stack real-time chat application enabling instant messaging with persistent chat history using React.js, Node.js, Express.js, Socket.io, and SQLite.
